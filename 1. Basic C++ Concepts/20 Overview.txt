@@ -7,23 +7,23 @@
 
 ### ✅ **Topics Covered So Far**
 
-| Topic                        | Description |
-|-----------------------------|-------------|
-| **Variables & Data Types**  | Learned how to declare and use variables (int, float, bool, char, etc.) |
-| **Input & Output**          | Used `cin` and `cout` for user interaction and displaying results |
-| **Arithmetic Operations**   | Practiced basic math operations (`+`, `-`, `*`, `/`, `%`) |
-| **Assignment Operators**    | Used compound assignment (`+=`, `-=`, `*=`, etc.) |
-| **Comparison Operators**    | Compared values using `==`, `!=`, `<`, `>`, `<=`, `>=` |
-| **Logical Operators**       | Implemented conditional logic using `&&`, `||`, `!` |
-| **If/Else Conditions**      | Built logic-based decision-making flows |
-| **Switch Statement**        | Used for multi-way branching using constant values |
+| Topic                            | Description |
+|----------------------------------|-------------|
+| **Variables & Data Types**       | Learned how to declare and use variables (int, float, bool, char, etc.) |
+| **Input & Output**               | Used `cin` and `cout` for user interaction and displaying results |
+| **Arithmetic Operations**        | Practiced basic math operations (`+`, `-`, `*`, `/`, `%`) |
+| **Assignment Operators**         | Used compound assignment (`+=`, `-=`, `*=`, etc.) |
+| **Comparison Operators**         | Compared values using `==`, `!=`, `<`, `>`, `<=`, `>=` |
+| **Logical Operators**            | Implemented conditional logic using `&&`, `||`, `!` |
+| **If/Else Conditions**           | Built logic-based decision-making flows |
+| **Switch Statement**             | Used for multi-way branching using constant values |
 | **Loops (for, while, do-while)** | Practiced repeating blocks of code efficiently |
-| **Break & Continue**        | Controlled the flow of loops |
-| **Ternary Operator**        | Used concise one-line `if-else` expressions |
-| **Bitwise Operators**       | Practiced `&`, `|`, `^`, `~`, `<<`, `>>` operations |
-| **Arrays**                  | Stored and accessed multiple values using indexed data |
-| **For-In / For-Of Concepts**| Iterated arrays using index-based and range-based loops |
-| **Infinite Loops**          | Created intentional loops with breaking conditions |
+| **Break & Continue**             | Controlled the flow of loops |
+| **Ternary Operator**             | Used concise one-line `if-else` expressions |
+| **Bitwise Operators**            | Practiced `&`, `|`, `^`, `~`, `<<`, `>>` operations |
+| **Arrays**                       | Stored and accessed multiple values using indexed data |
+| **For-In / For-Of Concepts**     | Iterated arrays using index-based and range-based loops |
+| **Infinite Loops**               | Created intentional loops with breaking conditions |
 
 ---
 
