@@ -25,6 +25,7 @@ Explanation:
 3. Uses another ternary operator to check if 'a' is even or odd and outputs the result
 
 Output:
+
 a is greater than b
 a is odd
 */

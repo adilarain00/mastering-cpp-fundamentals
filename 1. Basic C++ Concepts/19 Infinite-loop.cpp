@@ -33,6 +33,7 @@ Explanation:
 3. The `break` statement is used to exit both loops based on conditions
 
 Output:
+
 This is an infinite loop. Iteration: 0
 This is an infinite loop. Iteration: 1
 This is an infinite loop. Iteration: 2

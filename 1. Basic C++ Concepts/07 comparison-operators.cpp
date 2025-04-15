@@ -29,6 +29,7 @@ Operators     Name                       Example
     <=      Less than or equal to        x <= y
 
 Output:
+
 Comparison Operations:
 a == b: 0
 a != b: 1

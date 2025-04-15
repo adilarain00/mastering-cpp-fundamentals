@@ -27,5 +27,6 @@ Explanation:
 3. Prints the appropriate grade based on the given marks
 
 Output:
+
 Grade: B
 */

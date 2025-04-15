@@ -42,6 +42,7 @@ Operator      Example           Same-as
    <<=        x <<= 3          x = x << 3
 
 Output:
+
 Initial value of x: 10
 x += 5: 15
 x -= 3: 12

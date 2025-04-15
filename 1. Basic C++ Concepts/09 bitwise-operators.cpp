@@ -35,6 +35,7 @@ Explanation:
 3. Left and right shift operations are also demonstrated on 'a'
 
 Output:
+
 Bitwise Operations:
 a & b = 1
 a | b = 7

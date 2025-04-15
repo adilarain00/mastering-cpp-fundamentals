@@ -17,6 +17,7 @@ Explanation:
 2. Prints each number with the label "Number:"
 
 Output:
+
 Number: 1  
 Number: 2  
 Number: 3  

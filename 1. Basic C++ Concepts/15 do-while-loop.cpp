@@ -20,6 +20,7 @@ Explanation:
 3. Increments 'i' after each iteration
 
 Output:
+
 Number: 1  
 Number: 2  
 Number: 3  

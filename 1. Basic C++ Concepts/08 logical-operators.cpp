@@ -22,6 +22,7 @@ Explanation:
 3. !     Logical not Reverse the result, returns false if the result is true  !(x < 5 && x < 10)
 
 Output:
+
 Logical Operations:
 x && y: 0
 x || y: 1

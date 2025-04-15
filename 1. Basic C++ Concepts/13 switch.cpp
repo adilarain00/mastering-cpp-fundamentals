@@ -42,5 +42,6 @@ Explanation:
 4. If the day number is invalid, it prints an error message
 
 Output:
+
 Wednesday
 */

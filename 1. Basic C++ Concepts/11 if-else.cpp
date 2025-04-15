@@ -21,5 +21,6 @@ Explanation:
 3. Prints the appropriate message based on the condition
 
 Output:
+
 You are eligible to vote.
 */

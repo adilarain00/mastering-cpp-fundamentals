@@ -20,6 +20,7 @@ Explanation:
 3. Outputs each value in the array with the label "Number:"
 
 Output:
+
 Number: 10  
 Number: 20  
 Number: 30  

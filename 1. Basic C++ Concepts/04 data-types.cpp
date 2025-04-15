@@ -27,6 +27,7 @@ Explanation:
 5. double   8 bytes.    Stores fractional numbers. Sufficient for storing 15 decimal digits
 
 Output:
+
 Age: 20  
 Height: 5.9  
 Weight: 70.5  

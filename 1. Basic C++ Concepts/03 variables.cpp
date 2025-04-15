@@ -27,6 +27,7 @@ Explanation:
 5. bool - stores values with two states: true or false
 
 Output:
+
 Integer: 5  
 Floating point number: 5.99  
 Character: D  

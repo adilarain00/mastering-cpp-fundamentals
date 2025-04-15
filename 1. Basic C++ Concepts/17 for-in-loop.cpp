@@ -20,6 +20,7 @@ Explanation:
 3. Outputs the element at each index along with the index number
 
 Output:
+
 Element at index 0: 10  
 Element at index 1: 20  
 Element at index 2: 30  

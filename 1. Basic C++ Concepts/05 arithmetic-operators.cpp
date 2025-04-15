@@ -28,6 +28,7 @@ Explanation:
 7. --  Decrement       Decreases the value of a variable by 1  --x
 
 Output:
+
 Arithmetic Operations:
 a + b = 15
 a - b = 5
