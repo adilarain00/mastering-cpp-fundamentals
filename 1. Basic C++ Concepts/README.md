@@ -61,5 +61,5 @@ In the next phase, I will focus on:
 
 ### 📾 Final Note
 
-All programs are written with simplicity, readability, and clarity in mind — making this a **perfect reference for beginners and a professional showcase of C++ basics**.
+All programs are written with **simplicity, readability, and clarity** in mind — making this a **perfect reference for beginners and a professional showcase of C++ basics**.
 
