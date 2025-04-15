@@ -1,0 +1,65 @@
+### 🧠 **C++ Fundamentals – Learning Overview**
+
+**Learner:** *Adil Amjad*  
+**Track:** C++ Fundamentals – Phase 01 of DSA with C++
+
+---
+
+### ✅ **Topics Covered So Far**
+
+| Topic                            | Description                                                             |
+|----------------------------------|-------------------------------------------------------------------------|
+| **Variables & Data Types**       | Learned how to declare and use variables (int, float, bool, char, etc.) |
+| **Input & Output**               | Used `cin` and `cout` for user interaction and displaying results       |
+| **Arithmetic Operations**        | Practiced basic math operations (`+`, `-`, `*`, `/`, `%`)               |
+| **Assignment Operators**         | Used compound assignment (`+=`, `-=`, `*=`, etc.)                       |
+| **Comparison Operators**         | Compared values using `==`, `!=`, `<`, `>`, `<=`, `>=`                  |
+| **Logical Operators**            | Implemented conditional logic using `&&`, `||`, `!`                     | 
+| **If/Else Conditions**           | Built logic-based decision-making flows                                 |
+| **Switch Statement**             | Used for multi-way branching using constant values                      |
+| **Loops (for, while, do-while)** | Practiced repeating blocks of code efficiently                          |
+| **Break & Continue**             | Controlled the flow of loops                                            | 
+| **Ternary Operator**             | Used concise one-line `if-else` expressions                             |
+| **Bitwise Operators**            | Practiced `&`, `|`, `^`, `~`, `<<`, `>>` operations                     |    
+| **For-In / For-Of Concepts**     | Iterated arrays using index-based and range-based loops                 |
+| **Infinite Loops**               | Created intentional loops with breaking conditions                      |
+
+---
+
+### 💡 **Experience & Learning Reflection**
+
+This phase introduced me to the **core syntax and structure of C++**, allowing me to write clear and concise programs. With each topic, I:
+
+- Practiced writing **simple, structured code**
+- Focused on **clean formatting and minimal but meaningful comments**
+- Built a strong base to transition into more advanced topics like **functions, pointers, OOP, and DSA**
+
+This journey has made me more confident in problem-solving, debugging, and understanding **how computers interpret logical instructions.**
+
+---
+
+### 📘 **What's Next**
+
+In the next phase, I will focus on:
+
+- **Functions & Scope**
+- **Pointers & Memory Management**
+- **Object-Oriented Programming (OOP)**
+- **Standard Template Library (STL)**
+- **Solving DSA problems using C++**
+
+---
+
+### 📌 **Why This Foundation Matters**
+
+✅ Helps in cracking **technical interviews**  
+✅ Prepares for **competitive programming** and **Leetcode practice**  
+✅ Builds a **smooth transition to advanced C++ & system-level concepts**  
+✅ Strengthens **MERN stack backend logic thinking** with solid fundamentals
+
+---
+
+### 📾 Final Note
+
+All programs are written with simplicity, readability, and clarity in mind — making this a **perfect reference for beginners and a professional showcase of C++ basics**.
+
