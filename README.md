@@ -84,8 +84,8 @@ mastering-cpp-fundamentals/
 
 **Adil Amjad**
 🚀 C++ Learner | MERN Stack Developer | Aspiring Software Engineer
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adilarain00)
-📧 Email: addilarain00@gmail.com
+<br>
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adilarain00) | 📧 Email: addilarain00@gmail.com
 
 ---
 
