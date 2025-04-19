@@ -14,6 +14,7 @@ mastering-cpp-fundamentals/
 ├── 03-STL/              # Vectors, Maps, Sets, Queues, and STL Algorithms
 └── README.md            # This file – roadmap + folder breakdown
 
+```
 ---
 
 ## 📚 Folder Breakdown
@@ -91,5 +92,3 @@ mastering-cpp-fundamentals/
 ## ⭐ Final Note
 
 This repository is more than just a code dump — it reflects my **growth mindset**, my habit of **consistent learning**, and my drive to become a **better problem solver and developer**. Stay tuned as I move toward OOP, advanced DSA, and beyond!
-
-```
