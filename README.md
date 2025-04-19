@@ -81,9 +81,9 @@ mastering-cpp-fundamentals/
 
 ## ✍️ Author
 
-**Adil Amjad**  
-🚀 C++ Learner | MERN Stack Developer | Aspiring Software Engineer  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adilarain00)  
+**Adil Amjad**
+🚀 C++ Learner | MERN Stack Developer | Aspiring Software Engineer
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adilarain00)
 📧 Email: addilarain00@gmail.com
 
 ---
@@ -92,3 +92,4 @@ mastering-cpp-fundamentals/
 
 This repository is more than just a code dump — it reflects my **growth mindset**, my habit of **consistent learning**, and my drive to become a **better problem solver and developer**. Stay tuned as I move toward OOP, advanced DSA, and beyond!
 
+```
